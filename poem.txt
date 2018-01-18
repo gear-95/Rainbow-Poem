@@ -1,5 +1,4 @@
 The Rainbow
-Add ???
 Purple
 Pink
 Orange
@@ -8,4 +7,6 @@ Green
 Yellow
 Red
 These are the colors of rainbow.
-indio 
+
+
+
